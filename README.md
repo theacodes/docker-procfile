@@ -1,8 +1,8 @@
 # Docker and Procfile Example
 
-This demonstrates using [Honcho]() (a port of the [Foreman]() process manager) to run multiple processes in a Docker container.
+This demonstrates using [Honcho](https://honcho.readthedocs.org/en/latest/) (a port of the [Foreman](http://ddollar.github.io/foreman/) process manager) to run multiple processes in a Docker container.
 
-See [my blog post]() for more information.
+See [my blog post](tbd) for more information.
 
 ## Running
 
